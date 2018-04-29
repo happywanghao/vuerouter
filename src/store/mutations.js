@@ -1,0 +1,7 @@
+const type ={
+
+}
+
+export default {
+  
+}
