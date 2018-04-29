@@ -37,6 +37,7 @@ export default {
 <style lang="less" >
   html{
     height: 100%;
+    background:#FFF;
   }
   #app{
     width: 7.5rem;
